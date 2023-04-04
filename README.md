@@ -1,4 +1,4 @@
-# Power-BI-Projects
+# Sales Insights Dashboard
 Problem_statement: The Hardware company which supplies computer hardware and othe components  many of the client across india. computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
 
 Insights:
